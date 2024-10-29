@@ -1,0 +1,12 @@
+print(1+2) #if we any thing we print then we use the comman of print 
+print(3-5)
+print(2*9)
+print(9/2)
+print(6/2)
+print(6//2)
+print(9*9)
+print(3**2/3*5/5+9-6)
+print(3**2/2*3/3+6-4)
+print(3**2//2*3/3+6-4)
+print(3**2//3*5//5+9-6)
+print (3**2//2*3//3+6-4)
