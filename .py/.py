@@ -10,3 +10,4 @@ kashti
 # draw a bar plot 
 sns.barplot(x="who" , y ="alone" , hue="sex" , data= kashti , order=["woman","man","child"], color="red")
 plt.show()
+# how are you
